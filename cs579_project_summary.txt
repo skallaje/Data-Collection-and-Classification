@@ -1,0 +1,103 @@
+SUMMARY OF COLLECTION, CLUSTERING, CLASSIFICATION
+
+SUMMARY OF COLLECTION
+training tweets count = 500
+testing tweets count = 500
+User HillaryClinton 's friends are 
+	ChildDefender
+	pantsuitnation
+	lovebscott
+	SnoopDogg
+	amberdiscko
+	VP
+	Medium
+	RyanForRecovery
+	sarajacobs89
+	JoeBiden
+	BernieSanders
+	elizabethforma
+	RobbyMook
+	daniellekantor
+	Samynemir
+users friend of friends' count = 1193
+
+SUMMARY OF CLUSTERING
+The graph has 1137 nodes and 1206 edges
+Size of Cluster1 is 160
+Subgraph1 has 160 nodes and 174 edges
+Size of Cluster2 is 91
+Subgraph2 has 91 nodes and 90 edges
+Size of Cluster3 is 91
+Subgraph3 has 91 nodes and 90 edges
+Size of Cluster4 is 91
+Subgraph4 has 91 nodes and 90 edges
+
+SUMMARY OF CLASSIFICATION
+Accuracy on training data = 0.79 (std=0.04)
+Accuracy on testing data = 0.726
+Here is a set of tested tweets with a sentiment label (positive, negative, neutral)
+RT @MujicaDaSilva: Os Clinton ganharam US$ 153 milhões  em palestras. Valor em reais equivale a 520 milhões.  Juntando os 2 não dá met… 
+Positive Tweet
+RT @gerfingerpoken2: Defund Hillary Clinton Planned Parenthood Baby Body Chop Shop: https://t.co/QAWYZy8JeE - #DefundPP #prolife - https://…
+Neutral Tweet
+@kb32904 @MissLauraMarcus well I wanted our daughter to see there are no limits. What she got was unelected Theresa May, not Hillary Clinton
+Negative Tweet
+RT @TIME: Hillary Clinton now leads Donald Trump by over 2.5 million votes https://t.co/XYRSaz9ZhA
+Neutral Tweet
+RT @abel_whyte: Hillary catches up by 23,700 votes in PA before recount begins https://t.co/8GoR80jJpm why all these errors. #AnnulledTheEl…
+Negative Tweet
+The next time someone tells you we just had the wrong candidate, remind them that Hillary Clinton's 2.5 million... https://t.co/jUxe0JjNNQ
+Neutral Tweet
+They call her weak becuz she is woman. She is hard as nails, better and than that pussy Trump. https://t.co/pzbVCVhlts
+Neutral Tweet
+RT @gntlman: Hillary Clinton Gave Visa to Egyptian Terrorist to Visit State Dept, White House To Lobby For Blind Sheikh Release https://t.c…
+Negative Tweet
+RT @Redistrict: Hillary Clinton just surpassed 65 million votes, now leads national popular vote by 2.42 million (1.8%): https://t.co/j58Ga…
+Positive Tweet
+RT @iluvspringtime: #trump #Trump2016 #TrumpTransitionTeam #officialteamtrump @teamtrump #makeamericagreatagain #AmericaFirst… 
+Neutral Tweet
+RT @ughsarahd: Hillary Clinton has been rocking the same Patagonia fleece for at least 21 years. https://t.co/Igw7cXgIWV
+Neutral Tweet
+La fallida edición de Newsweek con Hillary Clinton como presidente se subasta en eBay https://t.co/35G7kDAWKp https://t.co/XEbukgz290
+Neutral Tweet
+"Hillary is a very resilient person. I mean, she has dealt with an awful lot in her life" Kaine said
+Yes, she &amp; Bil… https://t.co/1luF26ffEb
+Neutral Tweet
+RT @iluvspringtime: BREAKING : GOP Files FEC Complaint Citing Hillary Clinton is Puppet Master for Stein's Recount Scam https://t.co/YQ4npj…
+Negative Tweet
+@MoaninMary  "OH is like PA w some NC n it". and then a little Bada Bing and then some Walter White and Voila Hillary Clinton folks.
+Positive Tweet
+RT @humaneffect: US election recount: how it began – and what effect it could have https://t.co/xkcRHetrnx
+Negative Tweet
+RT @incognito1570: WikiLeaks' 10 Most Damning Clinton Emails that Prove Mainstream Media is Scripted and Controlled.
+#Hillary  https://t.co…
+Neutral Tweet
+RT @jjauthor: More Hillary emails! Wow? https://t.co/KM6noSfvmR
+Positive Tweet
+RT @dierdrelewis: Hillary Clinton wasn’t charged with mishandling classified information. Trump might appoint someone convicted of it. http…
+Negative Tweet
+RT @TIME: Hillary Clinton now leads Donald Trump by over 2.5 million votes https://t.co/XYRSaz9ZhA
+Neutral Tweet
+RT @JohnLeguizamo: Be great if we can overturn #trump https://t.co/530jL4QVWv
+Positive Tweet
+RT @jrhennessy: october: hillary clinton will be our next president
+november: hillary clinton is literally the sasquatch https://t.co/7A0ub…
+Positive Tweet
+RT @RichardWeaving: Adios Criminal Hillary Rotton Clinton
+And The Failed Violent Far Left-Alt Left
+Democrat Cry Bay Loser Party. https://t.…
+Negative Tweet
+I watched this entire episode at work today and spit out my coffee when she did this https://t.co/p6tNPF8VLg
+Neutral Tweet
+RT @Redistrict: Hillary Clinton's national popular vote lead just surpassed 2.5 million (1.9%): https://t.co/j58GaxfPmH
+Positive Tweet
+Store owner under fire for display of Hillary Clinton doll https://t.co/kdJrnw5Vxs @MailOnline
+Neutral Tweet
+@Anna_Chls oui ainsi que Hillary Clinton...
+Neutral Tweet
+RT @2016_Eleccion: ACTUALIZACIÓN: Ahora la candidata "derrotada" vence al candidato "ganador" por mas de 2.500.000 votos... https://t.co/ru…
+Neutral Tweet
+RT @lhfang: Some retro tweets from February, warning about why Donald Trump would do well in a match-up v Hillary Clinton https://t.co/UZnG…
+Neutral Tweet
+RT @Loca2733Mc: Hillary Clinton Popular Vote is 2.5M more than DT. Hillary fought 2 rid the EC in 2000. The majority has spoken.… 
+Positive Tweet

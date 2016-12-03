@@ -1,0 +1,24 @@
+The project is about 3 important topics in Data Science namely Collection, Clustering, and Classification.
+I have collected 1000 tweets for "Hillary Clinton" through TwitterAPI's requests, clustered her friends wit the help of Girvan Newman algorithm, and
+analyzed the sentiment of her tweets with the help of AFINN lexicon analysis and Machine Learning. 
+
+Data Collection is achieved through usage of TwitterAPI. Two sets of data has been collected. One is used as a training set and other as a testing set.
+Since there is a rate limit on using certain APIs, I have collected friend information of Hillary Clinton's friends. The tweet and user information data 
+is pickled for further usages in clustering and classification.
+
+Clustering is achieved through Girvan Newman algorithm where initially a graph is created using the users information. The graph is partitioned into
+several clusters using the algorithm. Clustering is based on creating communities among Hillary Clinton's friends by removing edges in the graph with
+high betweenness. Upon clustering, Hillary's friends are found to be segregated into 4 different clusters.
+
+We make use of AFINN to label training tweets as negative, neutral, positive. AFINN has a set of 2462 words with a weight ranging from -5 to +5. 
+The tweets collected initially will be labeled using AFINN information. Once the sentiment for each of the training tweet has been labelled, we make use of 
+SKLearn's LogisticRegression model is built where we fit the trained tweet with its label. By doing so, we are making sure the model is learning. Once the model has learnt sufficient information
+from  training data, we use it on predicting the sentiment of each tweet in testing data.
+
+Please refer "cs579_project_summary.txt" for the findings from the three different experiments in the project.
+
+Conclusion:
+Data collection is constrained by TwitterAPI rules. We have to manage this very efficiently.
+Upon clustering, graphs and clusters tell us Hillary friends of Hillary Clinton's friends are not highly connected. In other words, there is low clustering coefficient.
+For classification, labelling sentiment for a tweet using AFINN isn't ideal as English Language is not very simple and machines cannot learn figures of speech and 
+context of a sentence. Also, CountVectorizer() must be optimized for better accuracy results.

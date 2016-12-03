@@ -1,0 +1,20 @@
+SUMMARY OF COLLECTION
+training tweets count = 500
+testing tweets count = 500
+User HillaryClinton 's friends are 
+	ChildDefender
+	pantsuitnation
+	lovebscott
+	SnoopDogg
+	amberdiscko
+	VP
+	Medium
+	RyanForRecovery
+	sarajacobs89
+	JoeBiden
+	BernieSanders
+	elizabethforma
+	RobbyMook
+	daniellekantor
+	Samynemir
+users friend of friends' count = 1193

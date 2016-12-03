@@ -1,0 +1,10 @@
+SUMMARY OF CLUSTERING
+The graph has 1137 nodes and 1206 edges
+Size of Cluster1 is 160
+Subgraph1 has 160 nodes and 174 edges
+Size of Cluster2 is 91
+Subgraph2 has 91 nodes and 90 edges
+Size of Cluster3 is 91
+Subgraph3 has 91 nodes and 90 edges
+Size of Cluster4 is 91
+Subgraph4 has 91 nodes and 90 edges
