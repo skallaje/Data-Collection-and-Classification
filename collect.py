@@ -13,10 +13,10 @@ from collections import Counter, defaultdict, deque
 from itertools import chain, combinations
 import os.path
 
-consumer_key = 'PWy5WzvjT36uGAVHcM9AY5QHZ'
-consumer_secret = 'VELshHQhruwxYQwpRHjE6OjG5yXjoCo1lYMWtOmZOwUpudmkNc'
-access_token = '129882215-FDxcAMKqqzCctJwRx1szo2njSVTn5y7aaApuJzfC'
-access_token_secret = 'XTIRz00BBPjJ6y73SRQcq8HkCLkSHbx4qMp1tkk6zcR1U'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
 
 def get_twitter(R):
     if R == "API":
